@@ -14,7 +14,7 @@ const Category = () => {
     <section className="py-20">
       <SectionTitle
         subTitle="Categories"
-        title="Embark on a Flavorful Journey Through Our Foods."
+        title="Embark on a Flavorful Journey Through Our Foods"
       />
       <div className="w-full h-[50vh]">
         <Swiper
